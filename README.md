@@ -1,3 +1,3 @@
 # Moje přednášky a prezentace
 
-* [MA1-00](Slidy_MA1__00.pdf)
+* [MA1-00](Slidy_MA1___00.pdf)
