@@ -1,18 +1,18 @@
 # Moje přednášky a prezentace
 
 
-## [Prezentace s postupným odkrýváním]
-* [MA1-00](Slidy_MA1___00.pdf)
-* [MA1-01](Slidy_MA1_01.pdf)
-* [MA1-02-1](Slidy_MA1_02-1.pdf)
-* [MA1-02-2](Slidy_MA1_02-2.pdf)
-* [MA1-03](Slidy_MA1_03.pdf)
-* [MA1-04](Slidy_MA1_04.pdf)
-* [MA1-05](Slidy_MA1_05.pdf)
-* [MA1-06](Slidy_MA1_06.pdf)
-* [MA1-07](Slidy_MA1_07.pdf)
-* [MA1-08](Slidy_MA1_08.pdf)
-* [MA1-09](Slidy_MA1_09.pdf)
+## Prezentace s postupným odkrýváním
+* [Matematika 1 (Z) - lekce 0](Slidy_MA1___00.pdf)
+* [Matematika 1 (Z) - lekce 1](Slidy_MA1_01.pdf)
+* [Matematika 1 (Z) - lekce 2-1](Slidy_MA1_02-1.pdf)
+* [Matematika 1 (Z) - lekce 2-2](Slidy_MA1_02-2.pdf)
+* [Matematika 1 (Z) - lekce 3](Slidy_MA1_03.pdf)
+* [Matematika 1 (Z) - lekce 4](Slidy_MA1_04.pdf)
+* [Matematika 1 (Z) - lekce 5](Slidy_MA1_05.pdf)
+* [Matematika 1 (Z) - lekce 6](Slidy_MA1_06.pdf)
+* [Matematika 1 (Z) - lekce 7](Slidy_MA1_07.pdf)
+* [Matematika 1 (Z) - lekce 8](Slidy_MA1_08.pdf)
+* [Matematika 1 (Z) - lekce 9](Slidy_MA1_09.pdf)
 
-## [Prezentace s se slajdy rovnou plně odkrytými]
-* [MA1-00 (kompaktní verze)](Slidy_MA1_00_uncovered.pdf)
+## Prezentace s se slajdy rovnou plně odkrytými
+* [Matematika 1 (Z) - lekce 0 (kompaktní verze)](Slidy_MA1_00_uncovered.pdf)
