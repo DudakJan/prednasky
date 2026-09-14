@@ -1,4 +1,4 @@
-# Moje přednášky a prezentace
+# Prezentace k přednáškám
 
 
 ## Prezentace s postupným odkrýváním
