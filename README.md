@@ -9,7 +9,7 @@
 * [Matematika 1 (Z) - lekce 3](Slidy_MA1_03.pdf)
 * [Matematika 1 (Z) - lekce 4](Slidy_MA1_04.pdf)
 * [Matematika 1 (Z) - lekce 5](Slidy_MA1_05.pdf)
-* [Matematika 1 (Z) - lekce 6](Slidy_MA1_06b.pdf)
+* [Matematika 1 (Z) - lekce 6](Slidy_MA1_06.pdf)
 * [Matematika 1 (Z) - lekce 7](Slidy_MA1_07.pdf)
 * [Matematika 1 (Z) - lekce 8](Slidy_MA1_08.pdf)
 * [Matematika 1 (Z) - lekce 9](Slidy_MA1_09.pdf)
