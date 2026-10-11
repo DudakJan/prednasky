@@ -15,6 +15,7 @@
 * [Matematika 1 (Z) - lekce 9](Slidy_MA1_09.pdf)
 * [Matematika 1 (Z) - lekce 10](Slidy_MA1_10.pdf)
 * [Matematika 1 (Z) - lekce 11](Slidy_MA1_11.pdf)
+* [Matematika 1 (Z) - lekce 11](Slidy_MA1_12.pdf)
 
 ## Prezentace se slajdy rovnou plně odkrytými
 * [Matematika 1 (Z) - lekce 0](Slidy_MA1_00_uncovered.pdf)
@@ -30,3 +31,4 @@
 * [Matematika 1 (Z) - lekce 9](Slidy_MA1_09_uncovered.pdf)
 * [Matematika 1 (Z) - lekce 10](Slidy_MA1_10_uncovered.pdf)
 * [Matematika 1 (Z) - lekce 11](Slidy_MA1_11_uncovered.pdf)
+* [Matematika 1 (Z) - lekce 11](Slidy_MA1_12_uncovered.pdf)
